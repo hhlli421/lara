@@ -159,8 +159,8 @@
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				en,
-				Base,
+				zh-Hans
+				zh-Hant-TW
 			);
 			mainGroup = CC1C8B302F71DF9C00206982;
 			minimizedProjectReferenceProxies = 1;
